@@ -7,7 +7,7 @@
 <div align = center>
   <h3>🙋‍♀️Introduction🙋‍♀️</h3>
   <span>
-    안녕하세요! 저는 신입개발자 민지연입니다
+    안녕하세요! 저는 신입개발자 Min-nee입니다
   </span>
   <br>
   <h4>💻Skills💻</h4>
