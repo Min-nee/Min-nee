@@ -26,7 +26,7 @@
   
 </div>
 
-
+<br>
 <!--About Project-->
 
 ![header](https://capsule-render.vercel.app/api?type=transparent&height=150&section=header&text=About%20Project&fontSize=50&fontColor=2478FF)
@@ -36,11 +36,22 @@
   <span>
     여행사 홈페이지 구축 프로젝트
   </span>
+  
   <br>
   <h4>💡Laugnages💡</h4>
       <a href="https://github.com/Min-nee/MRTour">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Min-nee&layout=compact&repo=MRTour" />
       </a>
+  
+  <br>
+  
+  <h4>💡My Role💡</h4>
+      ✏️one Model, Controller 담당 <br> 
+      ✏️발표자료 및 발표 담당 <br>
+      ✏️DB설계 참여 <br>
+
+<br>
+  
   <h5>⚡Fun fact⚡</h5>
   <h6>배포는 하지 않았어요👻</h6>
 </div>
