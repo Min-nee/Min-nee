@@ -46,7 +46,7 @@
   <br>
   
   <h4>💡My Role💡</h4>
-      ✏️one Model, Controller 담당 <br> 
+      ✏️Model, Controller(MVC) 담당 <br> 
       ✏️발표자료 및 발표 담당 <br>
       ✏️DB설계 참여 <br>
 
