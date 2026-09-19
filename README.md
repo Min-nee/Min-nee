@@ -56,19 +56,4 @@
   <h6>배포는 하지 않았어요👻</h6>
 </div>
 
-<br><br><br>
-
-<div align = center>
-  <h3><a href = "https://github.com/Min-nee/bom_form">⚙️bom_form Project⚙️</a></h3>
-  <span>
-    BOM(Bill of Meterials) 구축 프로젝트
-  </span>
-  <br>
-  <h4>💡Laugnages💡</h4>
-      <a href="https://github.com/Min-nee/bom_form">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Min-nee&layout=compact&repo=bom_form" />
-      </a>
-  <h5>⚡Fun fact⚡</h5>
-  <h6>공공데이터를 이용해 품목분류코드와 연결 준비중이에요</h6>
-</div>
 
